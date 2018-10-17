@@ -1,0 +1,22 @@
+{
+  "name": "verkefnavinna",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThelmaRut/Verkefnavinna.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThelmaRut/Verkefnavinna/issues"
+  },
+  "homepage": "https://github.com/ThelmaRut/Verkefnavinna#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
